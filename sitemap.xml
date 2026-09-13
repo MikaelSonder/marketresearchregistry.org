@@ -1,1 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://marketresearchregistry.org/</loc>
+  </url>
+  <url>
+    <loc>https://marketresearchregistry.org/jurisdictions/</loc>
+  </url>
+  <url>
+    <loc>https://marketresearchregistry.org/privacy-policy/</loc>
+  </url>
+  <url>
+    <loc>https://marketresearchregistry.org/terms-of-use/</loc>
+  </url>
+  <url>
+    <loc>https://marketresearchregistry.org/llms.txt</loc>
+  </url>
+  <url>
+    <loc>https://marketresearchregistry.org/llms-full.txt</loc>
+  </url>
 
+  <!-- Europe -->
+  <url><loc>https://marketresearchregistry.org/jurisdictions/sweden/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/denmark/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/norway/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/finland/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/germany/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/netherlands/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/belgium/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/france/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/spain/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/italy/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/ireland/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/poland/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/austria/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/switzerland/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/czech-republic/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/portugal/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/hungary/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/romania/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/greece/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/slovakia/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/slovenia/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/croatia/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/bulgaria/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/luxembourg/</loc></url>
+
+  <!-- United Kingdom -->
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-kingdom/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-kingdom/england/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-kingdom/wales/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-kingdom/scotland/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-kingdom/northern-ireland/</loc></url>
+
+  <!-- Asia-Pacific -->
+  <url><loc>https://marketresearchregistry.org/jurisdictions/japan/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/south-korea/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/singapore/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/china/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/hong-kong/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/india/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/australia/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/new-zealand/</loc></url>
+
+  <!-- Middle East -->
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-arab-emirates/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/saudi-arabia/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/israel/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/qatar/</loc></url>
+
+  <!-- Americas -->
+  <url><loc>https://marketresearchregistry.org/jurisdictions/mexico/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/brazil/</loc></url>
+
+  <!-- United States -->
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/california/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/new-york/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/texas/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/florida/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/new-jersey/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/illinois/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/pennsylvania/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/massachusetts/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/washington/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/georgia/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/wyoming/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/nevada/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/united-states/delaware/</loc></url>
+
+  <!-- Canada -->
+  <url><loc>https://marketresearchregistry.org/jurisdictions/canada/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/canada/ontario/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/canada/quebec/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/canada/british-columbia/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/canada/alberta/</loc></url>
+
+  <!-- Regional and global -->
+  <url><loc>https://marketresearchregistry.org/jurisdictions/europe/</loc></url>
+  <url><loc>https://marketresearchregistry.org/jurisdictions/international/</loc></url>
+</urlset>
