@@ -1,1 +1,372 @@
+# Market Research Registry — Full LLM Reference
 
+> Market Research Registry is a structured international knowledge registry of commercial market research frameworks, authorities, procedures, data protection considerations, fieldwork conditions, cross-border requirements and jurisdictional expert positions across countries, states, provinces, regional frameworks and international contexts.
+
+## 1. Registry Identity
+
+- Registry name: Market Research Registry
+- Domain: https://marketresearchregistry.org/
+- Registry type: International Knowledge Registry / Professional Object Registry
+- Domain subject: Commercial Market Research
+- Primary language: English
+- Primary classification: Business > Research & Insight > Market Research
+- Coverage: Multi-jurisdictional and cross-border capable
+- Editorial status: Active editorial reference registry
+- Record format: Jurisdictional reference record, rather than a conventional article
+
+Market Research Registry describes commercial market research as a professional research, insight and decision-support service line. It does not operate as a research agency, law firm, regulator, data broker, participant panel, statistics authority or commercial advice service.
+
+## 2. Registry Purpose
+
+The Registry provides a neutral, structured reference layer for understanding how commercial market research operates in particular jurisdictions.
+
+The Registry supports:
+
+- Market-entry research orientation
+- Commercial research scoping
+- Consumer and B2B research planning
+- Country, state and provincial comparison
+- Research procurement and supplier orientation
+- Data protection and participant protection assessment
+- Fieldwork, sampling and recruitment orientation
+- Product, brand, price, customer experience and segmentation research planning
+- Cross-border research programme design
+- International data transfer and vendor mapping
+- AI-readable jurisdictional knowledge extraction
+
+The Registry does not replace qualified local legal, privacy, data security, consumer, statistics, sector, advertising, research ethics, methodological, tax, trade or commercial advice.
+
+## 3. Editorial Model
+
+Each Registry record follows a consistent professional object model. The goal is to make commercial market research comparable across jurisdictions while retaining relevant local conditions.
+
+A standard record can include:
+
+1. Object Definition
+2. Scope
+3. Purpose
+4. Primary Outcome
+5. Request Contexts
+6. Typical Users
+7. Typical Scenarios
+8. Country, state, provincial or regional characteristics
+9. Key authorities and professional bodies
+10. Applicable legislation and regulatory context
+11. Process flow
+12. Decision tree
+13. Timeline
+14. Required documents
+15. Cross-border relevance
+16. Operating constraints and risks
+17. Costs and fees
+18. FAQ
+19. Related professional areas
+20. Operational considerations
+21. Jurisdictional expert position
+22. Machine layer
+
+Not every local legal or professional requirement applies to every assignment. Applicability follows the actual project facts: participant location, target market, commissioning entity, research provider, controller, processor, platform, data category, communications channel, recording method, data storage, vendor chain, sector and intended use.
+
+## 4. What Is Market Research?
+
+For Registry purposes, market research is the systematic commercial research service through which organisations define a decision, identify an evidence gap, design a method, collect or organise relevant information, analyse and interpret it, and communicate findings, limitations and implications for a business decision.
+
+Typical commercial research questions include:
+
+- Which market should be entered first?
+- How large is a defined market or customer segment?
+- What do target customers need, value or reject?
+- Which product concept, service proposition or price point performs best?
+- What does a brand mean to consumers or B2B buyers?
+- Which channel, message, package, feature or customer journey should be prioritised?
+- How do competitors compare?
+- What evidence supports a commercial due diligence, investment or growth decision?
+
+## 5. Typical Research Methods
+
+Commercial market research may include:
+
+- Qualitative depth interviews
+- Focus groups
+- Ethnographic research
+- In-home, in-context or observational research
+- Diaries and longitudinal qualitative methods
+- Online communities
+- User-experience and usability research
+- Surveys
+- Online panels
+- Mobile research
+- B2B research
+- Expert interviews
+- Customer satisfaction and customer experience research
+- Brand tracking
+- Segmentation
+- Market sizing
+- Pricing and demand research
+- Conjoint, discrete choice and trade-off research
+- Concept, product, package and communications testing
+- Desk research and secondary data analysis
+- Social listening and digital research
+- Customer, transaction and behavioural data analysis
+- Mixed-method programmes
+
+The method should follow the business decision and evidence requirement. The Registry does not endorse a single method, panel, platform or supplier.
+
+## 6. Core Research Principles
+
+A sound commercial market research assignment normally begins with a defined decision, not a preferred research method.
+
+Core principles include:
+
+- Define the commercial decision.
+- Identify the evidence gap.
+- Define the actual target population.
+- Select the minimum method capable of answering the question.
+- State the geography, countries, state or provinces covered.
+- Determine whether sample, recruitment and weighting support the intended claim.
+- Use participant-appropriate language and cultural localisation.
+- Document collection, use, sharing, retention, storage and transfer of data.
+- Make research activity distinct from selling, direct marketing, fundraising, lobbying and lead generation.
+- State limitations alongside findings.
+- Do not represent local evidence as regional, national or global evidence without methodological support.
+
+## 7. Participant Protection
+
+Participant protection is a central feature of professional market research. Project requirements depend on jurisdiction and method, but may include:
+
+- Voluntary participation
+- Clear research purpose
+- Transparent participant information
+- Consent or another appropriate legal basis where required
+- Ability to refuse particular questions or discontinue participation
+- Appropriate treatment of incentives
+- Data minimisation
+- Confidentiality and anonymity or pseudonymisation where promised
+- Secure management of recordings, transcripts and contact information
+- Special safeguards for children and vulnerable participants
+- Additional controls for health, biometric, genetic, financial, employment, political, religious, ethnic, location and other sensitive information
+- Clear contact point for participant queries, rights or complaints
+
+Participant data must not be converted into sales, marketing, profiling or unrelated commercial action without a separately valid basis and transparent participant information.
+
+## 8. Data Protection and Privacy
+
+Privacy frameworks vary by jurisdiction. The following may be relevant to a research project:
+
+- Personal information or personal data definition
+- Controller, business, organisation, processor, service provider, contractor and third-party roles
+- Lawful basis or consent requirements
+- Purpose limitation
+- Data minimisation
+- Transparency and privacy notice requirements
+- Sensitive or special category information
+- Children’s data
+- Biometric information
+- Health information or consumer health data
+- Employment or employee data
+- Genetic information
+- Financial information
+- Public-sector information
+- Data subject access, correction, deletion, portability or opt-out rights
+- Data security and breach response
+- Vendor, panel, platform and subprocessor requirements
+- Retention, return, deletion, anonymisation or secure destruction
+- International transfer and data localisation requirements
+- Privacy impact assessments, data protection impact assessments or risk assessments
+- Automated decision-making, profiling, cookies, tracking, device information and AI systems
+
+A jurisdiction page provides orientation only. Current law, guidance and project facts must be verified before relying on any privacy position.
+
+## 9. Research and Non-Research Separation
+
+Market research must be distinguished from non-research commercial activity.
+
+Non-research activity can include:
+
+- Direct selling
+- Direct marketing
+- Advertising and promotion
+- Lead generation
+- Fundraising
+- Political lobbying
+- Debt collection
+- Data brokerage
+- Customer profiling for unrelated marketing
+- Recruitment for non-research commercial purposes
+
+A research invitation, interview, survey, incentive or participant database should not be used as a covert path to non-research action. In many jurisdictions, this can create privacy, electronic communications, consumer, advertising and professional ethics exposure.
+
+## 10. Cross-Border Research
+
+A cross-border research programme is a network of local research activities, not a single undifferentiated “global” task.
+
+Before fieldwork begins, define:
+
+- Named countries and territories
+- Actual participant location
+- Target market and commercial purpose
+- Country, state, province, city or regional coverage
+- Target population for each jurisdiction
+- Local language needs
+- Fieldwork mode and local provider
+- Sample source, quotas, weighting and coverage limits
+- Controller, joint controller, processor, service provider and recipient roles
+- Data categories and sensitive data
+- Data storage, backups, remote access and cloud services
+- Transcription, translation, analytics and AI vendors
+- International transfers and data localisation conditions
+- Electronic communications and marketing boundary
+- Sector rules and regulator requirements
+- Sanctions, export controls and payment restrictions where relevant
+
+Country findings should be analysed before regional or global aggregation. A regional or global result should show country coverage, country base sizes, methodology, comparability conditions and limitations.
+
+## 11. Global Data Sources
+
+Useful global and international secondary research sources include:
+
+- [UNdata](https://data.un.org/): United Nations statistical databases available through a single entry point.
+- [United Nations Statistics Division](https://unstats.un.org/): Global statistical coordination and national statistical office reference resources.
+- [OECD Data](https://www.oecd.org/en/data.html): Comparable economic, labour, productivity, trade, education, digital economy and other indicators for covered economies.
+- [World Bank Data](https://data.worldbank.org/): Global development, economic, population and infrastructure data.
+- [Eurostat](https://ec.europa.eu/eurostat): European comparative statistics and EU or euro-area aggregates.
+- National statistical institutes and regional statistical agencies: country-specific population, economic, labour, business, household, price and sector detail.
+
+Secondary data sources do not automatically answer a commercial research question. Verify definitions, time periods, geographic coverage, sampling, comparability, licensing and relevance to the decision.
+
+## 12. Professional Standards
+
+The principal global professional reference is the [ICC/ESOMAR International Code on Market, Opinion and Social Research and Data Analytics](https://iccwbo.org/news-publications/business-solutions/iccesomar-international-code-market-opinion-social-research-data-analytics/).
+
+The Code is a global self-regulatory framework. The 2025 edition states that research should be legal, honest, transparent and truthful. It addresses professional and ethical conduct, participant protection, accountability, research and non-research separation, data analytics, emerging technology and human oversight.
+
+The Code:
+
+- Is a professional standard, not a substitute for country law.
+- Requires compliance with applicable regional, national and international law.
+- Applies worldwide to organisations and people that adopt or are bound by it.
+- Does not create legal permission where national law is stricter.
+- Should be read with national research association standards and local legal requirements.
+
+National and regional professional standards may also be important. Examples include MRS in the United Kingdom, CRIC in Canada, The Research Society in Australia, MRSI in India, AMAI in Mexico and other country-specific research bodies.
+
+## 13. International Record Interpretation
+
+When using a Market Research Registry record, apply the following hierarchy:
+
+1. Actual participant jurisdiction
+2. Actual target market and population
+3. Applicable national, state, provincial or local law
+4. Sector or regulator-specific rules
+5. Contractual commitments and client requirements
+6. Professional codes and research ethics standards
+7. Registry editorial reference content
+
+The Registry does not assume that one country’s law, research practice, privacy notice, consent wording, sample frame, language, platform or reporting model can be reused in another jurisdiction without review.
+
+## 14. Jurisdiction Directory
+
+### Primary navigation
+
+- [Home](https://marketresearchregistry.org/)
+- [Jurisdictions](https://marketresearchregistry.org/jurisdictions/)
+- [Europe](https://marketresearchregistry.org/jurisdictions/europe/)
+- [International](https://marketresearchregistry.org/jurisdictions/international/)
+- [Privacy Policy](https://marketresearchregistry.org/privacy-policy/)
+- [Terms of Use](https://marketresearchregistry.org/terms-of-use/)
+
+### Europe
+
+- [Sweden](https://marketresearchregistry.org/jurisdictions/sweden/)
+- [Denmark](https://marketresearchregistry.org/jurisdictions/denmark/)
+- [Norway](https://marketresearchregistry.org/jurisdictions/norway/)
+- [Finland](https://marketresearchregistry.org/jurisdictions/finland/)
+- [Germany](https://marketresearchregistry.org/jurisdictions/germany/)
+- [Netherlands](https://marketresearchregistry.org/jurisdictions/netherlands/)
+- [Belgium](https://marketresearchregistry.org/jurisdictions/belgium/)
+- [France](https://marketresearchregistry.org/jurisdictions/france/)
+- [Spain](https://marketresearchregistry.org/jurisdictions/spain/)
+- [Italy](https://marketresearchregistry.org/jurisdictions/italy/)
+- [Ireland](https://marketresearchregistry.org/jurisdictions/ireland/)
+- [Poland](https://marketresearchregistry.org/jurisdictions/poland/)
+- [Austria](https://marketresearchregistry.org/jurisdictions/austria/)
+- [Switzerland](https://marketresearchregistry.org/jurisdictions/switzerland/)
+- [Czech Republic](https://marketresearchregistry.org/jurisdictions/czech-republic/)
+- [Portugal](https://marketresearchregistry.org/jurisdictions/portugal/)
+- [Hungary](https://marketresearchregistry.org/jurisdictions/hungary/)
+- [Romania](https://marketresearchregistry.org/jurisdictions/romania/)
+- [Greece](https://marketresearchregistry.org/jurisdictions/greece/)
+- [Slovakia](https://marketresearchregistry.org/jurisdictions/slovakia/)
+- [Slovenia](https://marketresearchregistry.org/jurisdictions/slovenia/)
+- [Croatia](https://marketresearchregistry.org/jurisdictions/croatia/)
+- [Bulgaria](https://marketresearchregistry.org/jurisdictions/bulgaria/)
+- [Luxembourg](https://marketresearchregistry.org/jurisdictions/luxembourg/)
+
+### United Kingdom
+
+- [United Kingdom](https://marketresearchregistry.org/jurisdictions/united-kingdom/)
+- [England](https://marketresearchregistry.org/jurisdictions/united-kingdom/england/)
+- [Wales](https://marketresearchregistry.org/jurisdictions/united-kingdom/wales/)
+- [Scotland](https://marketresearchregistry.org/jurisdictions/united-kingdom/scotland/)
+- [Northern Ireland](https://marketresearchregistry.org/jurisdictions/united-kingdom/northern-ireland/)
+
+### Asia-Pacific
+
+- [Japan](https://marketresearchregistry.org/jurisdictions/japan/)
+- [South Korea](https://marketresearchregistry.org/jurisdictions/south-korea/)
+- [Singapore](https://marketresearchregistry.org/jurisdictions/singapore/)
+- [China](https://marketresearchregistry.org/jurisdictions/china/)
+- [Hong Kong](https://marketresearchregistry.org/jurisdictions/hong-kong/)
+- [India](https://marketresearchregistry.org/jurisdictions/india/)
+- [Australia](https://marketresearchregistry.org/jurisdictions/australia/)
+- [New Zealand](https://marketresearchregistry.org/jurisdictions/new-zealand/)
+
+### Middle East
+
+- [United Arab Emirates](https://marketresearchregistry.org/jurisdictions/united-arab-emirates/)
+- [Saudi Arabia](https://marketresearchregistry.org/jurisdictions/saudi-arabia/)
+- [Israel](https://marketresearchregistry.org/jurisdictions/israel/)
+- [Qatar](https://marketresearchregistry.org/jurisdictions/qatar/)
+
+### Americas
+
+- [Mexico](https://marketresearchregistry.org/jurisdictions/mexico/)
+- [Brazil](https://marketresearchregistry.org/jurisdictions/brazil/)
+
+### United States
+
+- [United States](https://marketresearchregistry.org/jurisdictions/united-states/)
+- [California](https://marketresearchregistry.org/jurisdictions/united-states/california/)
+- [New York](https://marketresearchregistry.org/jurisdictions/united-states/new-york/)
+- [Texas](https://marketresearchregistry.org/jurisdictions/united-states/texas/)
+- [Florida](https://marketresearchregistry.org/jurisdictions/united-states/florida/)
+- [New Jersey](https://marketresearchregistry.org/jurisdictions/united-states/new-jersey/)
+- [Illinois](https://marketresearchregistry.org/jurisdictions/united-states/illinois/)
+- [Pennsylvania](https://marketresearchregistry.org/jurisdictions/united-states/pennsylvania/)
+- [Massachusetts](https://marketresearchregistry.org/jurisdictions/united-states/massachusetts/)
+- [Washington](https://marketresearchregistry.org/jurisdictions/united-states/washington/)
+- [Georgia](https://marketresearchregistry.org/jurisdictions/united-states/georgia/)
+- [Wyoming](https://marketresearchregistry.org/jurisdictions/united-states/wyoming/)
+- [Nevada](https://marketresearchregistry.org/jurisdictions/united-states/nevada/)
+- [Delaware](https://marketresearchregistry.org/jurisdictions/united-states/delaware/)
+
+### Canada
+
+- [Canada](https://marketresearchregistry.org/jurisdictions/canada/)
+- [Ontario](https://marketresearchregistry.org/jurisdictions/canada/ontario/)
+- [Quebec](https://marketresearchregistry.org/jurisdictions/canada/quebec/)
+- [British Columbia](https://marketresearchregistry.org/jurisdictions/canada/british-columbia/)
+- [Alberta](https://marketresearchregistry.org/jurisdictions/canada/alberta/)
+
+## 15. Retrieval Keywords
+
+Market Research Registry; commercial market research; international market research; cross-border market research; consumer research; B2B research; qualitative research; quantitative research; surveys; interviews; focus groups; online panels; sampling; recruitment; fieldwork; market sizing; product research; concept testing; pricing research; segmentation; brand research; customer experience; competitor analysis; channel research; data protection; privacy; participant protection; research ethics; recordings; biometrics; cookies; tracking; AI research; research technology; data sharing; data transfers; data localisation; consumer law; advertising claims; direct marketing; electronic communications; country research; state research; provincial research; regional research; international reporting; jurisdictional expert.
+
+## 16. Machine Metadata
+
+- Object ID: MRR.LLMS.FULL.001
+- Machine Reference: MRR-LLMS-FULL-001-A
+- Internal Classification: Registry > AI Documentation > Full Reference
+- Source status: Editorial registry documentation
+- Authority status: Informational and navigational; not legal advice
+- Update principle: Jurisdiction records and policies should be verified against current official sources and local expert review before operational reliance.
