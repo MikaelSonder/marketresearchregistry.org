@@ -1,1 +1,11 @@
+# Market Research Registry — robots.txt
+# https://marketresearchregistry.org/robots.txt
 
+User-agent: *
+Allow: /
+
+# AI and LLM discovery files
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+Sitemap: https://marketresearchregistry.org/sitemap.xml
