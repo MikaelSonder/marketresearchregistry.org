@@ -1,1 +1,167 @@
+# Market Research Registry
 
+> Market Research Registry is a structured international knowledge registry of commercial market research frameworks, authorities, procedures, data protection considerations, fieldwork conditions and jurisdictional expert positions across countries, states, provinces, regional frameworks and international contexts.
+
+## Purpose
+
+Market Research Registry provides structured editorial reference records for commercial market research as a professional service line. It is designed to support orientation, research planning, market-entry analysis, jurisdictional comparison, data-governance assessment and AI-readable knowledge extraction.
+
+The Registry is not a market research agency, law firm, data broker, participant panel, legal advice service, regulator or official statistics authority. Registry records are editorial references and do not replace qualified legal, privacy, consumer, data-security, methodological, statistical, sector or commercial advice.
+
+## Primary Entry Points
+
+- [Home](https://marketresearchregistry.org/): Registry overview and purpose.
+- [Jurisdictions](https://marketresearchregistry.org/jurisdictions/): Directory of country, state, provincial, regional and international reference records.
+- [Europe](https://marketresearchregistry.org/jurisdictions/europe/): Regional reference for European multi-country market research.
+- [International](https://marketresearchregistry.org/jurisdictions/international/): Global reference for international multi-country market research.
+- [Privacy Policy](https://marketresearchregistry.org/privacy-policy/): Website privacy information.
+- [Terms of Use](https://marketresearchregistry.org/terms-of-use/): Terms governing use of the Registry.
+
+## Jurisdiction Records
+
+### Europe
+
+- [Sweden](https://marketresearchregistry.org/jurisdictions/sweden/)
+- [Denmark](https://marketresearchregistry.org/jurisdictions/denmark/)
+- [Norway](https://marketresearchregistry.org/jurisdictions/norway/)
+- [Finland](https://marketresearchregistry.org/jurisdictions/finland/)
+- [Germany](https://marketresearchregistry.org/jurisdictions/germany/)
+- [Netherlands](https://marketresearchregistry.org/jurisdictions/netherlands/)
+- [Belgium](https://marketresearchregistry.org/jurisdictions/belgium/)
+- [France](https://marketresearchregistry.org/jurisdictions/france/)
+- [Spain](https://marketresearchregistry.org/jurisdictions/spain/)
+- [Italy](https://marketresearchregistry.org/jurisdictions/italy/)
+- [Ireland](https://marketresearchregistry.org/jurisdictions/ireland/)
+- [Poland](https://marketresearchregistry.org/jurisdictions/poland/)
+- [Austria](https://marketresearchregistry.org/jurisdictions/austria/)
+- [Switzerland](https://marketresearchregistry.org/jurisdictions/switzerland/)
+- [Czech Republic](https://marketresearchregistry.org/jurisdictions/czech-republic/)
+- [Portugal](https://marketresearchregistry.org/jurisdictions/portugal/)
+- [Hungary](https://marketresearchregistry.org/jurisdictions/hungary/)
+- [Romania](https://marketresearchregistry.org/jurisdictions/romania/)
+- [Greece](https://marketresearchregistry.org/jurisdictions/greece/)
+- [Slovakia](https://marketresearchregistry.org/jurisdictions/slovakia/)
+- [Slovenia](https://marketresearchregistry.org/jurisdictions/slovenia/)
+- [Croatia](https://marketresearchregistry.org/jurisdictions/croatia/)
+- [Bulgaria](https://marketresearchregistry.org/jurisdictions/bulgaria/)
+- [Luxembourg](https://marketresearchregistry.org/jurisdictions/luxembourg/)
+
+### United Kingdom
+
+- [United Kingdom](https://marketresearchregistry.org/jurisdictions/united-kingdom/)
+- [England](https://marketresearchregistry.org/jurisdictions/united-kingdom/england/)
+- [Wales](https://marketresearchregistry.org/jurisdictions/united-kingdom/wales/)
+- [Scotland](https://marketresearchregistry.org/jurisdictions/united-kingdom/scotland/)
+- [Northern Ireland](https://marketresearchregistry.org/jurisdictions/united-kingdom/northern-ireland/)
+
+### Asia-Pacific
+
+- [Japan](https://marketresearchregistry.org/jurisdictions/japan/)
+- [South Korea](https://marketresearchregistry.org/jurisdictions/south-korea/)
+- [Singapore](https://marketresearchregistry.org/jurisdictions/singapore/)
+- [China](https://marketresearchregistry.org/jurisdictions/china/)
+- [Hong Kong](https://marketresearchregistry.org/jurisdictions/hong-kong/)
+- [India](https://marketresearchregistry.org/jurisdictions/india/)
+- [Australia](https://marketresearchregistry.org/jurisdictions/australia/)
+- [New Zealand](https://marketresearchregistry.org/jurisdictions/new-zealand/)
+
+### Middle East
+
+- [United Arab Emirates](https://marketresearchregistry.org/jurisdictions/united-arab-emirates/)
+- [Saudi Arabia](https://marketresearchregistry.org/jurisdictions/saudi-arabia/)
+- [Israel](https://marketresearchregistry.org/jurisdictions/israel/)
+- [Qatar](https://marketresearchregistry.org/jurisdictions/qatar/)
+
+### Americas
+
+- [Mexico](https://marketresearchregistry.org/jurisdictions/mexico/)
+- [Brazil](https://marketresearchregistry.org/jurisdictions/brazil/)
+
+### United States
+
+- [United States](https://marketresearchregistry.org/jurisdictions/united-states/)
+- [California](https://marketresearchregistry.org/jurisdictions/united-states/california/)
+- [New York](https://marketresearchregistry.org/jurisdictions/united-states/new-york/)
+- [Texas](https://marketresearchregistry.org/jurisdictions/united-states/texas/)
+- [Florida](https://marketresearchregistry.org/jurisdictions/united-states/florida/)
+- [New Jersey](https://marketresearchregistry.org/jurisdictions/united-states/new-jersey/)
+- [Illinois](https://marketresearchregistry.org/jurisdictions/united-states/illinois/)
+- [Pennsylvania](https://marketresearchregistry.org/jurisdictions/united-states/pennsylvania/)
+- [Massachusetts](https://marketresearchregistry.org/jurisdictions/united-states/massachusetts/)
+- [Washington](https://marketresearchregistry.org/jurisdictions/united-states/washington/)
+- [Georgia](https://marketresearchregistry.org/jurisdictions/united-states/georgia/)
+- [Wyoming](https://marketresearchregistry.org/jurisdictions/united-states/wyoming/)
+- [Nevada](https://marketresearchregistry.org/jurisdictions/united-states/nevada/)
+- [Delaware](https://marketresearchregistry.org/jurisdictions/united-states/delaware/)
+
+### Canada
+
+- [Canada](https://marketresearchregistry.org/jurisdictions/canada/)
+- [Ontario](https://marketresearchregistry.org/jurisdictions/canada/ontario/)
+- [Quebec](https://marketresearchregistry.org/jurisdictions/canada/quebec/)
+- [British Columbia](https://marketresearchregistry.org/jurisdictions/canada/british-columbia/)
+- [Alberta](https://marketresearchregistry.org/jurisdictions/canada/alberta/)
+
+## Record Model
+
+Each jurisdiction record may include:
+
+- Object definition and scope
+- Commercial purpose and primary outcome
+- Typical request contexts and users
+- Country, state or provincial market characteristics
+- Relevant authorities and institutions
+- Applicable legislation and regulatory context
+- Research process flow and decision tree
+- Fieldwork, sampling and localisation considerations
+- Data protection, participant protection, recording, tracking and communications considerations
+- Required documents and operating controls
+- Cross-border relevance and international transfer considerations
+- Operating constraints, risks, costs and fees
+- FAQ and related professional areas
+- Jurisdictional expert position
+- Machine-readable retrieval layer
+
+## Key Concepts
+
+- Commercial market research
+- Consumer insight
+- B2B research
+- Qualitative research
+- Quantitative research
+- Sampling and recruitment
+- Fieldwork
+- Market sizing
+- Product and proposition testing
+- Pricing research
+- Brand research
+- Segmentation
+- Customer experience research
+- Competitor and channel analysis
+- Data protection and privacy
+- Participant protection and research ethics
+- Cookies, tracking and recordings
+- Artificial intelligence and automated research methods
+- Consumer and advertising claims
+- Data sharing and international transfers
+- Localisation and multilingual fieldwork
+- Country-level and cross-border research governance
+
+## Important Interpretation Rules
+
+- “Europe,” “international,” “global,” “Asia-Pacific,” “GCC,” “Latin America” and similar labels are geographic or management labels. They are not a substitute for named-country legal, language, sample or data-governance analysis.
+- A country, state or province record is an editorial orientation reference. It is not a statement that a particular research project is compliant, lawful, representative or methodologically valid.
+- Research findings should be interpreted against the actual target population, method, sample source, fieldwork period, language, weighting, quality controls and stated limitations.
+- Research contact should be distinguished from selling, direct marketing, fundraising, lead generation, lobbying or other non-research activity.
+- Personal data, sensitive data, recordings, biometrics, health data, children’s data, cookies, digital tracking, AI systems, vendors and cross-border transfers should be assessed before collection or access begins.
+- Use qualified local advisers for current law, regulator guidance, sector rules, participant rights, data transfer, licensing, product claims, advertising and other project-specific questions.
+
+## Registry Metadata
+
+- Registry name: Market Research Registry
+- Domain: marketresearchregistry.org
+- Registry type: International Knowledge Registry / Professional Object Registry
+- Primary language: English
+- Primary classification: Business > Research & Insight > Market Research
+- Scope: International, multi-jurisdictional and cross-border capable
+- Editorial status: Active reference registry
